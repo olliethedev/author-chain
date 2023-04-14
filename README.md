@@ -35,6 +35,6 @@ Self reflection loops are particularly time consuming.
 Slighly out of date
 
 ![Diagram](
-https://raw.githubusercontent.com/olliethedev/author-chain/main/src/assets/diagram.png)
+https://raw.githubusercontent.com/olliethedev/author-chain/main/markup_files/diagram.png)
 
 
