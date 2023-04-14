@@ -1,0 +1,8 @@
+langchain
+openai
+google-search-results
+google-api-python-client
+gnews
+newspaper3k
+tiktoken
+requests
